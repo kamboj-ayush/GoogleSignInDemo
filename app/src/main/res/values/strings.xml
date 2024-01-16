@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleSignInDemo</string>
+    <string name="google_icon_description">Google Sign In Icon</string>
+    <string name="web_client_id">your web client id here</string>
+</resources>
